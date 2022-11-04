@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swift 기본 자료구조 1
+title: Swift 기본 자료구조 1. Array
 subtitle: Array
 categories: Swift PS DS
 tags: Swift PS DS
